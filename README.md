@@ -38,13 +38,13 @@ In this Project I:
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Age_Prediction_of_Sea_Slugs_KNN_Regression/blob/main/Images/1.png)
 
-![Image1]()
+![Image2](https://github.com/Anuragtsl/ML-Age_Prediction_of_Sea_Slugs_KNN_Regression/blob/main/Images/2.png)
 
-![Image1]()
+![Image3](https://github.com/Anuragtsl/ML-Age_Prediction_of_Sea_Slugs_KNN_Regression/blob/main/Images/3.jpg)
 
-![Image1]()
+![Image4](https://github.com/Anuragtsl/ML-Age_Prediction_of_Sea_Slugs_KNN_Regression/blob/main/Images/4.png)
 
 
 #Njoy!
