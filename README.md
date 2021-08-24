@@ -6,7 +6,7 @@ In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matpl
 
 I've used [Jupyter Notebook]() for coding!
 
-**Download the dataset from [here]()!**
+**Download the dataset from [here](https://github.com/Anuragtsl/ML-Age_Prediction_of_Sea_Slugs_KNN_Regression/blob/main/Dataset.txt)!**
 
 # The Abalone Problem Statement
 
@@ -14,7 +14,7 @@ I've used [Jupyter Notebook]() for coding!
 
 * The goal of the project is to develop a model that can predict the age of an abalone based purely on the other physical measurements. This would allow researchers to estimate the abalone’s age without having to cut its shell and count the rings.
 
-***I've applied a kNN to find the closest prediction score possible. Follow [notebook]() for more!!***
+***I've applied a kNN to find the closest prediction score possible. Follow [notebook](https://github.com/Anuragtsl/ML-Age_Prediction_of_Sea_Slugs_KNN_Regression/blob/main/Age%20Prediction%20of%20Sea%20Slugs%20KNN%20Regression.ipynb) for more!!***
 
 # Comparison of the Three Models
 
