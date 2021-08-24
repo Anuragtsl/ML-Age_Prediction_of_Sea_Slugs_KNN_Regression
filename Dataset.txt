@@ -1,0 +1,12 @@
+Link:- https://archive.ics.uci.edu/ml/datasets/abalone
+
+or 
+
+You can directly import data into your notebook using pandas library
+  1)url = ("https://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data")
+  2)abalone = pd.read_csv(url,header=None)
+  3)abalone.columns = ['Sex', 'Length', 'Diameter', 'Height', 'Whole weight', 'Shucked weight', 'Viscera weight', 'Shell weight', 'Rings']
+  4)abalone.head()
+  
+  
+#Njoy!
