@@ -1,1 +1,1 @@
-# ML-Age_Prediction_of_Sea_Slugs_KNN
+# ML-Age_Prediction_of_Sea_Slugs_KNN_Regression
